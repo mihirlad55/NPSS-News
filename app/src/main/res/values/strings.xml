@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">NPSS News</string>
+    <string name="login">Login</string>
+    <string name="sign_in">Sign In</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="dialog_incorrect_credentials_msg">Incorrect Email and/or Password</string>
+    <string name="ok">Ok</string>
+</resources>
